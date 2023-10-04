@@ -1,3 +1,3 @@
 # odin-recipes
 
-very simple html projct.
+very simple html project.
